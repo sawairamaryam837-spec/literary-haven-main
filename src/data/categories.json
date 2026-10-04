@@ -1,0 +1,200 @@
+[
+{
+"id": "fiction",
+"name": "Fiction",
+"slug": "fiction",
+"description": "Explore Fiction",
+"icon": "\ud83d\udcd6",
+"accent": null,
+"sort_order": 0
+},
+{
+"id": "horror",
+"name": "Horror",
+"slug": "horror",
+"description": "Explore Horror",
+"icon": "\ud83d\udd6f\ufe0f",
+"accent": null,
+"sort_order": 1
+},
+{
+"id": "mystery",
+"name": "Mystery",
+"slug": "mystery",
+"description": "Explore Mystery",
+"icon": "\ud83d\udd0d",
+"accent": null,
+"sort_order": 2
+},
+{
+"id": "thriller",
+"name": "Thriller",
+"slug": "thriller",
+"description": "Explore Thriller",
+"icon": "\u26a1",
+"accent": null,
+"sort_order": 3
+},
+{
+"id": "romance",
+"name": "Romance",
+"slug": "romance",
+"description": "Explore Romance",
+"icon": "\u2764\ufe0f",
+"accent": null,
+"sort_order": 4
+},
+{
+"id": "fantasy",
+"name": "Fantasy",
+"slug": "fantasy",
+"description": "Explore Fantasy",
+"icon": "\ud83d\udc09",
+"accent": null,
+"sort_order": 5
+},
+{
+"id": "science-fiction",
+"name": "Science Fiction",
+"slug": "science-fiction",
+"description": "Explore Science Fiction",
+"icon": "\ud83d\ude80",
+"accent": null,
+"sort_order": 6
+},
+{
+"id": "biography",
+"name": "Biography",
+"slug": "biography",
+"description": "Explore Biography",
+"icon": "\ud83d\udc64",
+"accent": null,
+"sort_order": 7
+},
+{
+"id": "history",
+"name": "History",
+"slug": "history",
+"description": "Explore History",
+"icon": "\ud83c\udfdb\ufe0f",
+"accent": null,
+"sort_order": 8
+},
+{
+"id": "self-help",
+"name": "Self Help",
+"slug": "self-help",
+"description": "Explore Self Help",
+"icon": "\ud83c\udf31",
+"accent": null,
+"sort_order": 9
+},
+{
+"id": "business",
+"name": "Business",
+"slug": "business",
+"description": "Explore Business",
+"icon": "\ud83d\udcbc",
+"accent": null,
+"sort_order": 10
+},
+{
+"id": "technology",
+"name": "Technology",
+"slug": "technology",
+"description": "Explore Technology",
+"icon": "\ud83d\udca1",
+"accent": null,
+"sort_order": 11
+},
+{
+"id": "computer-science",
+"name": "Computer Science",
+"slug": "computer-science",
+"description": "Explore Computer Science",
+"icon": "\ud83d\udda5\ufe0f",
+"accent": null,
+"sort_order": 12
+},
+{
+"id": "ai-ml",
+"name": "AI & Machine Learning",
+"slug": "ai-ml",
+"description": "Explore AI & Machine Learning",
+"icon": "\ud83e\udd16",
+"accent": null,
+"sort_order": 13
+},
+{
+"id": "data-science",
+"name": "Data Science",
+"slug": "data-science",
+"description": "Explore Data Science",
+"icon": "\ud83d\udcca",
+"accent": null,
+"sort_order": 14
+},
+{
+"id": "programming",
+"name": "Programming",
+"slug": "programming",
+"description": "Explore Programming",
+"icon": "\u2328\ufe0f",
+"accent": null,
+"sort_order": 15
+},
+{
+"id": "psychology",
+"name": "Psychology",
+"slug": "psychology",
+"description": "Explore Psychology",
+"icon": "\ud83e\udde0",
+"accent": null,
+"sort_order": 16
+},
+{
+"id": "philosophy",
+"name": "Philosophy",
+"slug": "philosophy",
+"description": "Explore Philosophy",
+"icon": "\ud83e\udd89",
+"accent": null,
+"sort_order": 17
+},
+{
+"id": "islamic-books",
+"name": "Islamic Books",
+"slug": "islamic-books",
+"description": "Explore Islamic Books",
+"icon": "\ud83d\udd4c",
+"accent": null,
+"sort_order": 18
+},
+{
+"id": "childrens-books",
+"name": "Children's Books",
+"slug": "childrens-books",
+"description": "Explore Children's Books",
+"icon": "\ud83e\uddf8",
+"accent": null,
+"sort_order": 19
+},
+{
+"id": "academic-books",
+"name": "Academic Books",
+"slug": "academic-books",
+"description": "Explore Academic Books",
+"icon": "\ud83c\udf93",
+"accent": null,
+"sort_order": 20
+},
+{
+"id": "literature",
+"name": "Literature",
+"slug": "literature",
+"description": "Explore Literature",
+"icon": "\u2712\ufe0f",
+"accent": null,
+"sort_order": 21
+}
+]
